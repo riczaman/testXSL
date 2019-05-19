@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="tv.xsl" type="text/xsl"?>
+<collection>
+    <show> 
+        <title> Power </title>
+        <season> Season 6 </season>
+        <episode> 1 </episode>
+    </show>
+    <show>
+        <title> The Enemey Within </title>
+        <season> Season 1 </season>
+        <episode> 13 </episode>
+    </show>
+    <show>
+        <title> Ransom </title>
+        <season> Season 3 </season>
+        <episode> 13 </episode>
+    </show>
+    <show>
+        <title> Lucifer </title>
+        <season> Season 4 </season>
+        <episode> 3 </episode>
+    </show>
+</collection>
